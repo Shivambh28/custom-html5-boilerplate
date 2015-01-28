@@ -13,5 +13,6 @@ ________
 - Github Pull Request
 - ezValidation.js
 - jquery.sticky.js
+- NEAT BURBON
 
-2014 | Shivam Bhalla
+2015 | Shivam Bhalla
